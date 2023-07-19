@@ -1,0 +1,9 @@
+# Build output folder
+build/
+out/
+BuildOutput/
+_sandbox/
+
+# VSCode settings to ignore
+.vscode/extensions.json
+.vscode/launch.json
